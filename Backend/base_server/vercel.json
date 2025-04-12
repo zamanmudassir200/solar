@@ -14,8 +14,8 @@
     ],
     "env": {
       "PORT": "3001",
-      "MONGO_URI": "your-mongodb-connection-string",
-      "JWT_SECRET": "your-secret-key"
+      "MONGO_URI": "mongodb://localhost:27017/base",
+      "JWT_SECRET": "solarpanel@2025"
     }
   }
   
